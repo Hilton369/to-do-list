@@ -14,7 +14,7 @@ git clone https://github.com/Hilton369/to-do-list.git
 
 ## Authors
 
-- Hilton Wonog
+- Hilton Wong
 
   
 ## License
