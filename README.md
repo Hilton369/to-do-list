@@ -1,8 +1,27 @@
-# React + Vite
+# Practice To Do List WebApp
+This is a To Do List app which uses React.  It is able to add/delete/move to do list items.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Prerequisites
 
-Currently, two official plugins are available:
+- nodejs
+  - https://nodejs.org/en/learn/getting-started/how-to-install-nodejs
+- npm
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Cloning
+
+git clone https://github.com/Hilton369/to-do-list.git
+
+
+## Authors
+
+- Hilton Wonog
+
+  
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+Followed YouTube tutorial at https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=8626s
+
